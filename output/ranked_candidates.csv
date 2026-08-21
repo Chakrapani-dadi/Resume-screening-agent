@@ -1,0 +1,12 @@
+rank,filename,score,reasoning
+1,priya_sharma.docx,0.7704,"Priya Sharma is an excellent match, possessing over 5 years of backend experience with matched skills including Python (FastAPI, Django), PostgreSQL, REST APIs, Docker, AWS, and preferred tech like Kafka and Kubernetes. There are no significant gaps in her core technical qualifications, though her resume does not explicitly mention open-source contributions."
+2,arjun_mehta.pdf,0.7325,"Arjun is an excellent match with 4 years of backend experience directly aligning with key requirements including Go, Python (Flask), PostgreSQL, REST APIs, GCP, and RabbitMQ. The only minor gaps are a lack of explicit experience with Kubernetes and AWS, though his strong GCP background fully satisfies the core cloud requirement."
+3,karan_patel.pdf,0.7254,"Karan Patel is an exceptional match for the role, demonstrating expertise in required skills like Go, Python, REST APIs, PostgreSQL optimization, Docker, and GCP, alongside preferred bonuses like Kafka and Kubernetes. There are no obvious technical gaps, though his 9+ years of senior-level experience exceeds the role's 3+ year requirement."
+4,ananya_iyer.docx,0.7141,"Ananya is a strong match for the role, possessing 3+ years of experience along with core required skills in Python (Django/Flask), MySQL query optimization, REST API design, Docker, and AWS. The primary gaps include a lack of Go programming experience and no mentioned exposure to nice-to-have technologies like Kubernetes or message queues (Kafka/RabbitMQ)."
+5,rohan_kapoor.pdf,0.699,"Rohan is a strong fit with over five years of experience that directly aligns with the core requirements in Python (Flask, FastAPI, Django), PostgreSQL query optimization, REST APIs, and Docker. His main gaps include limited cloud and CI/CD depth—showing only basic AWS experience—and a lack of exposure to Go or nice-to-have tools like Kubernetes and message queues."
+6,meera_joshi.docx,0.6318,(reasoning skipped past top candidates to save API calls)
+7,neha_gupta.docx,0.6214,(reasoning skipped past top candidates to save API calls)
+8,sophia_dsouza.docx,0.6182,(reasoning skipped past top candidates to save API calls)
+9,rahul_verma.pdf,0.6086,(reasoning skipped past top candidates to save API calls)
+10,vikram_singh.pdf,0.5438,(reasoning skipped past top candidates to save API calls)
+11,emily_chen.docx,0.5434,(reasoning skipped past top candidates to save API calls)

@@ -1,0 +1,23 @@
+Job Title: Backend Software Engineer
+
+We are looking for a Backend Software Engineer to join our growing platform team.
+
+Responsibilities:
+- Design and build scalable REST APIs and microservices
+- Work with relational databases (PostgreSQL/MySQL) and optimize queries
+- Write clean, tested Python or Go code
+- Collaborate with frontend and DevOps teams on deployments
+- Debug production issues and improve system reliability
+
+Requirements:
+- 3+ years of professional software engineering experience
+- Strong experience with Python (Django/Flask/FastAPI) or Go
+- Experience with SQL databases and query optimization
+- Familiarity with Docker, CI/CD pipelines, and cloud platforms (AWS/GCP)
+- Understanding of REST API design principles
+- Bachelor's degree in Computer Science or equivalent experience
+
+Nice to have:
+- Experience with message queues (Kafka, RabbitMQ)
+- Exposure to Kubernetes
+- Contributions to open-source projects
